@@ -1,0 +1,12 @@
+[
+    {"model": "words", "pk": 1, "fields": {"eng": "Dog", "rus": "Собака"}},
+    {"model": "words", "pk": 2, "fields": {"eng": "Cat", "rus": "Кошка"}},
+    {"model": "words", "pk": 3, "fields": {"eng": "Rabbit", "rus": "Кролик"}},
+    {"model": "words", "pk": 4, "fields": {"eng": "Horse", "rus": "Лошадь"}},
+    {"model": "words", "pk": 5, "fields": {"eng": "Cow", "rus": "Корова"}},
+    {"model": "words", "pk": 6, "fields": {"eng": "Red", "rus": "Красный"}},
+    {"model": "words", "pk": 7, "fields": {"eng": "Green", "rus": "Зеленый"}},
+    {"model": "words", "pk": 8, "fields": {"eng": "Black", "rus": "Черный"}},
+    {"model": "words", "pk": 9, "fields": {"eng": "Yellow", "rus": "Желтый"}},
+    {"model": "words", "pk": 10, "fields": {"eng": "Blue", "rus": "Синий"}}
+]

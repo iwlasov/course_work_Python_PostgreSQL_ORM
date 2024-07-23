@@ -1,0 +1,9 @@
+{
+     "postgreSQL": {
+          "bd": "postgresql",
+          "login": "postgres",
+          "password": "",
+          "name_bd": ""
+         },
+     "token_bot": ""
+}
